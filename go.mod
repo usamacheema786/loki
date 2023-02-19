@@ -21,7 +21,7 @@ require (
 	github.com/fluent/fluent-bit-go v0.0.0-20190925192703-ea13c021720c
 	github.com/frankban/quicktest v1.7.2 // indirect
 	github.com/go-kit/kit v0.9.0
-	github.com/gogo/protobuf v1.3.1 // remember to update loki-build-image/Dockerfile too
+	github.com/gogo/protobuf v1.3.2 // remember to update loki-build-image/Dockerfile too
 	github.com/golang/snappy v0.0.1
 	github.com/gorilla/mux v1.7.1
 	github.com/gorilla/websocket v1.4.0
@@ -51,7 +51,7 @@ require (
 	github.com/ugorji/go v1.1.7 // indirect
 	github.com/weaveworks/common v0.0.0-20200201141823-27e183090ab1
 	go.etcd.io/etcd v0.0.0-20190815204525-8f85f0dc2607 // indirect
-	golang.org/x/net v0.0.0-20200625001655-4c5254603344
+	golang.org/x/net v0.0.0-20201021035429-f5854403a974
 	google.golang.org/grpc v1.25.1
 	gopkg.in/alecthomas/kingpin.v2 v2.2.6
 	gopkg.in/fsnotify.v1 v1.4.7
