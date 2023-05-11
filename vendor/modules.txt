@@ -168,7 +168,7 @@ github.com/cortexproject/cortex/pkg/util/validation
 github.com/davecgh/go-spew/spew
 # github.com/dgrijalva/jwt-go v3.2.0+incompatible
 github.com/dgrijalva/jwt-go
-# github.com/docker/distribution v2.7.1+incompatible
+# github.com/docker/distribution v2.8.2+incompatible
 github.com/docker/distribution/registry/api/errcode
 # github.com/docker/docker v0.7.3-0.20190817195342-4760db040282
 github.com/docker/docker/api/types
